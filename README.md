@@ -52,9 +52,8 @@ Excel-Sales-Analysis-Dashboards/
 │
 ├── Coffee_Shop_Dashboard.xlsx
 ├── Biscuits_Cookies_Dashboard.xlsx
-├── images/
-│   ├── coffee_shop_dashboard.png
-│   └── biscuits_cookies_dashboard.png
+├── coffee_shop_dashboard.png
+└── biscuits_cookies_dashboard.png
 └── README.md
 ```
 
